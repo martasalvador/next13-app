@@ -1,0 +1,14 @@
+.navigation {
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+
+.header {
+    padding: 18px;
+    margin: 0;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
